@@ -1,0 +1,26 @@
+body {
+    background-color: wheat;
+    color: black;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-shadow: 5px 10px 10px;
+    font-style: italic;
+}
+legend{
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 18PX;
+}
+ul{
+    text-transform: capitalize;
+}
+
